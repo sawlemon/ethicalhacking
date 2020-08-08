@@ -3,11 +3,12 @@ https://www.youtube.com/watch?v=hbG2I8Vz49w
 
 **Bug Hunter's Methodology v4.02**
 by *Jason Haddix*
+
 Recon part
 
 **Project Tracking**
-	Xmind
-	
+
+	Xmind	
 	Does the site have Multiple user roles
 	How does it reference users
 	How it handles special character
@@ -17,7 +18,6 @@ Recon part
 	Does it have file uploads
 	Have I done JS analysis for paths
 	Have I done content discovery
-	
 	Color Coding the Output
 
 **Mission**
@@ -50,7 +50,9 @@ Recon part
 	ASN Enumeration with AMASS
 		Frame work for domain intelligence
 
-**Reverse Who is **
+
+**reverse whois**
+
 	Whoxy.com
 		Given a domain, it returns the registrar data
 		
