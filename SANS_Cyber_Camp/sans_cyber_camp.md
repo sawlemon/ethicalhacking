@@ -155,6 +155,7 @@
         
 
 ## Introduction to Network Analysis
-@greg_scheidel
+> @greg_scheidel
 
-bit.ly/31xiYnc
+    bit.ly/31xiYnc
+    
