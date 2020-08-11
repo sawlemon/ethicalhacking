@@ -84,6 +84,7 @@
 
 
 > ## Heather Mahalik
+@heathermahalik, hmahalik@sans.org, smarterforensics.com
 
     Had no experience in computer science before
 
@@ -101,4 +102,54 @@
         backupnow
 
         ibackupbot
+        for585.com/books
     
+    Homework
+        for585.com/phonelab
+
+    how to unlock a locked phone
+        iphone can be backed up through macs
+        android unlocking requires expensive devices
+
+    Coolest thing worked no:
+        Bin Laden's devices
+    
+    autopsy - tool to recover
+
+    elcomsoft phone breaker - tool
+
+
+> ## Jason Jordan
+@DFS_JasonJ
+    
+    Police -> Detective
+    everyone is a photographer
+        we all take photos of everything
+    
+    Metadata
+        is kind of adjective that describes a thing
+        everyfile has metadata, name, location, size etc..
+        
+        EXIF Metadata
+            data embedded inside a photo
+            when the picture was take, camera used etc..
+            most files will have geo tags, gps co-ordinates of pictures
+        
+        Fighting Rhino Poaching with Digital forensics
+            A criminal was arrested with rhino studds, in the pictures from his phone, using co ordinates from photos they found the riho that was killed.
+        
+**Analyze image metadata**
+    
+> exiftool path/to/image.jpg
+    
+    displays all metadata 
+    the gps lat lon are not searchable in gmaps
+    exiftool also allows to edit metadata
+
+> exiftool path/to/img -c "gps format"
+
+    displays gps in gmap searchable format
+
+    Do people hide data in meta data
+        some people do, embedding data using some tools by criminals
+        
