@@ -153,3 +153,8 @@
     Do people hide data in meta data
         some people do, embedding data using some tools by criminals
         
+
+## Introduction to Network Analysis
+@greg_scheidel
+
+bit.ly/31xiYnc
