@@ -157,5 +157,88 @@
 ## Introduction to Network Analysis
 > @greg_scheidel
 
-    bit.ly/31xiYnc
+bit.ly/31xiYnc
+
+**Packet Capture and Analysis**
+
+    Wireless monitoring
+        good antenna used to capture packets
+    Network tabs
+        A to tap to B
+    
+    Tools
+        tcpdump
+            packet analysis
+        Wireshark
+            protocol analyzer
+            understands the ip/tcp/udp/http protocols
+            presents the ssl certificate, no need to find manually
+        TShark
+            command-line version of Wireshark
+            can be used for scripting and data analysis
+        libpcap/winpcap
+            for live capture. these tools present to the above tools. they take advantage of these
+
+> ctrl + shift + r - bypass cache,feteches from the server not from the cache
+
+# Commands
+>ip address
+    
+    lo - loopback
+    eth0 - ethernet card
+
+>ifconfig
+
+    same output as above
+
+>ip route
+    
+    what my gateways are, next device that I route though 
+    every data I send out goes out through this route
+
+>sudo traceroute -d 8.8.8.8 
+    
+    8.8.8.8 google server
+    sudo- super user do
+    path is not entirely diplayed because other devices doesnt respond to traceroute
+
+>id
+
+    displays user information
+
+>ping -c1 8.8.8.8
+
+    ping once c1 flag is ued
+
+>sudo tcpdump -n "icmp"/"port 53"
+
+    requires sudo access to access eth0
+    filters only ICMP messages
+    -n no name resolution
+    "port 53" to filter only data through port
+
+>nslookup google.com
+    
+    provides dns information 
+    server and address information
+     
+>*command* --help/-h (or) man *commadn*
+
+    to learn about what command does
+    man displays more descriptive info
+
+
+Q&A
+
+    where do you pull up these commands
+        man -k (search-term)
+            man command list all the commands for related term
+            eg: man -k browser
+    
+    wireless packet capturing
+        wireshar
+    why tcpdump over wireshar
+        uses less resource, can be command lined and stored in a file for later usage
+        port 80 doesnt always mean http
+
     
