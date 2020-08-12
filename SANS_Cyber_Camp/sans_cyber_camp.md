@@ -241,4 +241,146 @@ Q&A
         uses less resource, can be command lined and stored in a file for later usage
         port 80 doesnt always mean http
 
+----    
+
+# Day2
+
+## Items to Note
+
+Links to important blogs  cybercamp games, virtual swag bag, 
+https://www.sans.org/cyber-camp
+
+Game forms must be submitted today,
+
+https://www.sans.org/media/security-training/Cyber-Camp-Games.pdf
+
+Tomahawque CTF closes aug 13
+
+Tomahawque.com 
+
+
+
+sans.org/security-awareness 
+
+----
+## Cyber Security and Parents
+> *Lance Spitzner*
+lspitzner@sans.org
+
+    Top 3 threats
+        Strangers
+        Friends
+        Yourselves
+            bad public behavior
+            swearing online
+            copyrighted material
+            accessing inappropriate content
+    Communication is the Key, Talk to parents
+        don't focus on technology, focus on the behaviour
     
+    life360 - spying app
+    burner phone
+        android has 18 month update privacy
+        after that its all ours
+    The ISP can stop downloading from bit torrent and charge a person for downloading bit torrent copyrighted material.
+
+    Communication is the Key
+----
+## Hacking with Metasploit
+>*Jeff McJunkin*, @jeffmcjunkin, jeff@roguevalleyinfosec.com
+
+    Credential stuffing:
+        password spraying, using previously breached data
+    MITRE's terminiology Mitre Att&ck
+        enterprise Matrix
+    Do not ever, log in google account in others phone
+
+    Four things all hackers need:
+        1. Internal access - public system has less stuff to hack
+        2. privileges - 
+        3. Finding valuable data
+        4. copying and stealing data
+    incident response - own field
+    
+    Tim Malcom Vetter:
+        1. Hacking from outside
+        2. VPN/ Loggin in from ousdide
+        3. phishing
+        4. walking in (physical)
+        5. Tricking to accept physical stuff
+
+    Antivirus as an industry is doomed
+        some metasploit generated exe cannot be detected by any antivirus s/w even today
+    Not only EXE files, apk can also be generated
+    Language to learn:
+        python is enough
+    
+    Microfot vm free:
+        modern.ie
+        ms azure dev tools for teaching
+    Turnkey linux
+    Top level domain for free:
+        .tk
+        .ml
+        .ga
+    Digital Ocean
+        cheap server online
+    Do not build own DNS Server
+    vulnhub.com
+        free downloadable vm's 
+        boot to root
+        with walkthrough videos
+
+    Book:
+        blackhat python
+
+    
+## What is a web Application
+> Chris Elgee @chriselgee
+
+    High school nerd, army  
+    kittenwar.com
+        pure http not https
+    web application
+        any dynamic web page
+>curl -v kittenwar.com
+    
+    server headres and everyting in command line
+    
+### H2Matrix in Sans 
+    collection of challenges of 5 years of SANS Holiday Hack challenge
+
+overthewire.org
+    similar to hackthebox 
+    
+    Tools:
+        Burpsuite
+        Owasp Zap
+
+
+Cyber Security Awareness for Online Safety
+> Courtney H Jackson @cybercourtney
+
+    Cyber security
+        actions taken to protect yourself online
+
+    https enabled
+    use vpn if possible
+    communicate with people you know
+    keep password and personal stuff private
+    read all agreements
+
+
+## Intro to Programming
+> mark bagget @markbaggett
+
+    System and Network Administrator for 8 year
+    serviced in milary as Info Sec
+    Masters in Information Security
+    CISO - Chief info security officer
+        helps a company to set good policies and has a team
+    Tools are developed by programmes
+
+    Programming Language called LOGO
+        logointerpreter.com
+        
