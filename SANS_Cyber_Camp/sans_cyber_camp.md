@@ -383,4 +383,26 @@ Cyber Security Awareness for Online Safety
 
     Programming Language called LOGO
         logointerpreter.com
+
+
+## Cyber Camp Panel
+
+    Get into cyber security
+        Jason :
+            dive in and do what interests you
+            learn and do lot of things
+            not about tech, its about finding community of people with same wavelength to grow together
+            surround person with same journey
+        Lodrina:
+            read more about hackers and find people
+        Lance:
+            no matter what background is, 
+            help others whenever you can
+                help setup website, help setup wifi etc..
+            even if 
+
+    Experience
+        cybersecurity is about learning how things work, not how to break things, try learning everything
         
+    Just do It
+    
