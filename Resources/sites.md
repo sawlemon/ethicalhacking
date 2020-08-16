@@ -32,10 +32,6 @@
 ----
 
 # **Other useful sites:**
-    
-## [Exploit-DB](https://www.exploit-db.com/)
-    
-    Database of Exploits
 
 ## [Hackerhighschool](https://www.hackerhighschool.org/)
     

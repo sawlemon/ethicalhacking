@@ -4,11 +4,17 @@
 	Ansible - automation
 	Google Pen-testing tool
 	https://pentest-tools.com/information-gathering/google-hacking
+	
 	Gtfobins
 		Privillage escalation resource
 
+	wafw00f
+		finds whether a server is protected(like cud flare)
+
 ## **Vulnerability Finder**
-	ExploitDB
+## [Exploit-DB](https://www.exploit-db.com/)
+Database of Exploits
+
 	NVD
 	CVE Mitre
 	Searchsploit
