@@ -8,8 +8,6 @@
 ## **Blogs**
 	Vickie Li
 
-
-
 ## **Hacktivitycon**
 	Windows - fire eye scripts
 	flareVM - reverse engg wid Pentester framework tool
@@ -35,6 +33,36 @@
 	NetworkChuk
 	Cybrary
 	IppSec
+
+	Aditya Shende🇮🇳 (@ADITYASHENDE17) Tweet
+
+		Stanford CS 253 Web Security playlist
+		https://t.co/F1vAqOiqoM
+
+		Nahamsec YT (Bug Bounty)
+		https://t.co/A9ltRYVo5O
+
+		Pwnfunction (Exploitation)
+		https://t.co/Q5rUWdvRNB
+
+		STÖK (Bug Bounty Tuts)
+		https://t.co/vzjVOard6s
+
+		LiveOverflowCTF (CTF and Challenges)
+		https://t.co/GJIKgqrd3I 
+
+		John Hammond YT (CTF and bug bounty)
+		https://t.co/Z0Mz9Rq6VH
+
+		BruteLogic YT (XSS lord)
+		https://t.co/ch5Pxy0PTq
+
+		Osintcurious Project (OSINT)
+		https://t.co/3H3rXsUN8z
+		
+		Hak5 (Overall hacking)
+		https://t.co/TCjgD6bKMz 
+
 ## **Certifications**
 	
 	GPEN - GIAC Pen Tester
@@ -54,8 +82,6 @@
 	Cretified Professional Penetration Tester(eCPPT)
 
 	Offensive Security Certified Professional(OSCP)
-
-
 
 ## **Positions**
 	Security researcher
@@ -92,4 +118,4 @@
 		Ethical Hacker
 		Exploit Developer
 		Consultant
-		Purlple Teamer
+		Purple Teamer

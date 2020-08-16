@@ -66,4 +66,11 @@
 
 ## [PortSwigger Web Security Academy](https://portswigger.net/web-security)
     Free, online web security training from the creators of Burp Suite
+
+## [Bug Crowd](https://forum.bugcrowd.com/t/researcher-resources-tutorials/370) 
+    researcher resources with tutorials 
+
+## [Hacksplaining](https://www.hacksplaining.com/lessons)
+    interactive walkthrough of various popular exploits and how to perform them, can be utilized by beginners
+    
 ----
