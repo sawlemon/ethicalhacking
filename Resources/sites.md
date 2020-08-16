@@ -9,7 +9,28 @@
 ## [yogasha](https://yogosha.com/)
 	
 ----
-	
+
+# **Labs**
+
+## [TryHackMe](https://tryhackme.com/)
+    
+    CTF's and Rooms to learn and Practice
+
+## [PenTesterLab](https://pentesterlab.com/)
+    
+    Our exercises cover everything from basic bugs to advanced vulnerabilities.
+    Not only will we help you learn but you'll also have fun doing it!
+
+## [HackTheBox](https://www.hackthebox.eu/)
+    
+    An online platform to test and advance your skills in penetration testing and cyber security.
+
+## [Vulnhub](https://www.vulnhub.com/)
+
+    To provide materials that allows anyone to gain practical 'hands-on' experience in digital security, computer software & network administration.
+
+----
+
 # **Other useful sites:**
     
 ## [Exploit-DB](https://www.exploit-db.com/)
@@ -28,29 +49,21 @@
 
     ​CyberPatriot is the National Youth Cyber Education Program created by the Air Force Association to inspire K-12 students toward careers in cybersecurity or other science, technology, engineering, and mathematics (STEM) disciplines critical to our nation's future.
 
-## [TryHackMe](https://tryhackme.com/)
-    
-    CTF's and Rooms to learn and Practice
-
-## [HackTheBox](https://www.hackthebox.eu/)
-    
-    An online platform to test and advance your skills in penetration testing and cyber security.
-
-## [Vulnhub](https://www.vulnhub.com/)
-
-    To provide materials that allows anyone to gain practical 'hands-on' experience in digital security, computer software & network administration.
 
 ## [PenTesterAcademy](https://www.pentesteracademy.com/)
-    
+
     Courses and Online Labs
 
-----
-# **Labs**
-
-## [PenTesterLab](https://pentesterlab.com/)
+## [OverTheWire - War Games](https://overthewire.org/wargames/)
     
-    Our exercises cover everything from basic bugs to advanced vulnerabilities.
-    Not only will we help you learn but you'll also have fun doing it!
+    The wargames offered by the OverTheWire community can help you to learn and practice security concepts in the form of fun-filled games.
 
-## [PortSwigger Websecurity Accademy](https://portswigger.net/web-security)
+## [Root-Me](https://www.root-me.org/)
+    
+    A fast, accessible and realistic platform to test your hacking skills.
+## [Try2Hack](http://www.try2hack.nl/)
+    This site provides several security-oriented challenges for your entertainment. It is actually one of the oldest challenge sites still around :)
+
+## [PortSwigger Web Security Academy](https://portswigger.net/web-security)
     Free, online web security training from the creators of Burp Suite
+----
