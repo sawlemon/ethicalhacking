@@ -6,6 +6,7 @@ https://blog.christophetd.fr/bypassing-cloudflare-using-internet-wide-scan-data/
 
 
     An article from 2018 by @christophetd that is well constructed and simple to understand even for beginners, Good read Must Check out.
+Use Striker tool to bypass cludflare
 ----
 
 ## Bug Crowd 

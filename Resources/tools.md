@@ -19,3 +19,8 @@
 
 	Create local vm's easily
 	
+## **Target practices**
+	Owaspbwa - broken web application
+		Owasp webgoat, Juice Shop (included in bwa)
+	Metasploitable 2 and 3
+	Exploitdb with vulnerable software
