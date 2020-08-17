@@ -9,7 +9,8 @@
 		Privillage escalation resource
 
 	wafw00f
-		finds whether a server is protected(like cud flare)
+		Web Application Firewall Detection Tool
+		finds whether a server is protected(like cloudflare)
 
 ## **Vulnerability Finder**
 ## [Exploit-DB](https://www.exploit-db.com/)
