@@ -13,5 +13,10 @@ Use Striker tool to bypass cloudflare
     This is a detailed overview of the bugs found while reviewing the source code of WordPress plugins. I cover 3 reported vulnerabilities (CVE-2020–5766, CVE-2020–5767 and CVE-2020–5768) which can be exploited for information disclosure and sending forged emails
 
 ----
+## [Stuxnet: Anatomy of a Computer Virus](https://vimeo.com/25118844)
+    An infographic dissecting the nature and ramifications of Stuxnet, the first weapon made entirely out of code. This was produced for Australian TV program HungryBeast on Australia's ABC1
+----
 
-
+## [Key Reinstallation Attacks](https://www.krackattacks.com)
+    We discovered serious weaknesses in WPA2, a protocol that secures all modern protected Wi-Fi networks. An attacker within range of a victim can exploit these weaknesses using key reinstallation attacks (KRACKs)
+----
