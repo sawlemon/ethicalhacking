@@ -69,4 +69,10 @@
 ## [Hacksplaining](https://www.hacksplaining.com/lessons)
     interactive walkthrough of various popular exploits and how to perform them, can be utilized by beginners
 
+## [Information Security IV - NPTEL](https://nptel.ac.in/courses/106/106/106106178/)
+    Syllabus:
+    Short evaluation on scripting, Networking basics (Contents of IS L3) - Introduction to Kali Linux - Layer 2 and Layer 3 Discovery using Kali Linux with demo/practice - Layer 4 discovery using Kali Linux with demo/practice - Port scanning feature in Kali Linux with demo/practice etc.
+
+## [Stanford CS 253 Web Security playlist](https://t.co/F1vAqOiqoM)
+    
 ----

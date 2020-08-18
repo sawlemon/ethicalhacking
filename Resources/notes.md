@@ -36,8 +36,7 @@
 
 	Aditya Shende🇮🇳 (@ADITYASHENDE17) Tweet
 
-		Stanford CS 253 Web Security playlist
-		https://t.co/F1vAqOiqoM
+		
 
 		Nahamsec YT (Bug Bounty)
 		https://t.co/A9ltRYVo5O
