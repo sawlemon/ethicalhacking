@@ -12,6 +12,12 @@
 		Web Application Firewall Detection Tool
 		finds whether a server is protected(like cloudflare)
 
+	gobuster/dirbuster
+	enum4linux
+	hydra
+	linEnum
+
+
 ## **Vulnerability Finder**
 ## [Exploit-DB](https://www.exploit-db.com/)
 Database of Exploits
