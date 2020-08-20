@@ -1,4 +1,5 @@
 ## **Books**
+	Web Hacking 101
 	The web application hackers handbook
 	Owasp testing guide
 	Linux Device Drivers - Book
