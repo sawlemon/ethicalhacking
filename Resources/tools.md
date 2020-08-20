@@ -18,20 +18,23 @@
 	linEnum
 	crackstation.net
 
-	
+## [FuzzDB](https://github.com/fuzzdb-project/fuzzdb)
+	FuzzDB was created to increase the likelihood of finding application security vulnerabilities through dynamic application security testing. 
+
+## [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+	A list of useful payloads and bypasses for Web Application Security. Feel free to improve with your payloads and techniques 
 
 ## **Vulnerability Finder**
-## [Exploit-DB](https://www.exploit-db.com/)
-Database of Exploits
 
+## [Exploit-DB](https://www.exploit-db.com/)
+## Database of Exploits
 	NVD
 	CVE Mitre
 	Searchsploit
 		Tool in linux
 	Cvedetails.com
 
-**Vagrant**
-
+## **Vagrant**
 	Create local vm's easily
 	
 ## **Target practices**
