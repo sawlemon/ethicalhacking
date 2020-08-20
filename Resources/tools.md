@@ -24,7 +24,7 @@
 ## [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 	A list of useful payloads and bypasses for Web Application Security. Feel free to improve with your payloads and techniques 
 
-## **Vulnerability Finder**
+# **Vulnerability Finder**
 
 ## [Exploit-DB](https://www.exploit-db.com/)
 ## Database of Exploits
@@ -32,7 +32,7 @@
 	CVE Mitre
 	Searchsploit
 		Tool in linux
-	Cvedetails.com
+	cvedetails.com
 
 ## **Vagrant**
 	Create local vm's easily

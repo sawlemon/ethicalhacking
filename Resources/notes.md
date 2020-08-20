@@ -24,7 +24,7 @@
 	Common Vulnerabilities and Exposures (CVE)
 	Service Set Identifier (SSID)
 
-## **Youtube channels**
+## **Youtube channels and Videos**
 	nahamsec
 	jason hadddix
 	Stok
@@ -35,9 +35,7 @@
 	IppSec
 
 	Aditya Shende🇮🇳 (@ADITYASHENDE17) Tweet
-
-		
-
+	
 		Nahamsec YT (Bug Bounty)
 		https://t.co/A9ltRYVo5O
 
@@ -61,6 +59,9 @@
 		
 		Hak5 (Overall hacking)
 		https://t.co/TCjgD6bKMz 
+
+## [How to Start a Career in Cyber Security with The Cyber Mentor](https://youtu.be/DnvnKaPpfr8)
+
 
 ## **Certifications**
 	
