@@ -5,7 +5,7 @@
 	Google Pen-testing tool
 	https://pentest-tools.com/information-gathering/google-hacking
 	
-	Gtfobins
+	gtfobins
 		Privillage escalation resource
 
 	wafw00f
@@ -42,3 +42,16 @@
 		Owasp webgoat, Juice Shop (included in bwa)
 	Metasploitable 2 and 3
 	Exploitdb with vulnerable software
+
+## [OWASP Cheat Sheet](https://cheatsheetseries.owasp.org/index.html)
+[wasp cheatsheet github](https://github.com/OWASP/CheatSheetSeries)
+	
+	The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. These cheat sheets were created by various application security professionals who have expertise in specific topics.
+
+## [CyberChef](https://gchq.github.io/CyberChef/)
+	Encoding tools in browser
+
+## [PenTestMonkey](pentestmonkey.net)
+
+## [Wimble](wimble.net)
+	BSSID Lookup

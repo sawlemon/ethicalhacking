@@ -22,3 +22,4 @@ Use Striker tool to bypass cloudflare
 ----
 ## [Choosing between www and non-www URLs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Choosing_between_www_and_non-www_URLs)
     A recurring question among website owners is whether to choose non-www or www URLs. This page provides some advice on what's best.
+
