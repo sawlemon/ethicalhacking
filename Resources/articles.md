@@ -20,3 +20,5 @@ Use Striker tool to bypass cloudflare
 ## [Key Reinstallation Attacks](https://www.krackattacks.com)
     We discovered serious weaknesses in WPA2, a protocol that secures all modern protected Wi-Fi networks. An attacker within range of a victim can exploit these weaknesses using key reinstallation attacks (KRACKs)
 ----
+## [Choosing between www and non-www URLs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Choosing_between_www_and_non-www_URLs)
+    A recurring question among website owners is whether to choose non-www or www URLs. This page provides some advice on what's best.
