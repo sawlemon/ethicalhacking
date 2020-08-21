@@ -1,4 +1,4 @@
-# Great Articles that I found online
+# Some Random Articles 
 
 ## [ByPassing Cloudflare protection](https://blog.christophetd.fr/bypassing-cloudflare-using-internet-wide-scan-data/)
 
