@@ -55,3 +55,8 @@
 
 ## [Wimble](wimble.net)
 	BSSID Lookup
+
+## [XSS Filter Evasion Cheat Sheet](https://owasp.org/www-community/xss-filter-evasion-cheatsheet)
+	
+	This article is focused on providing application security testing professionals with a guide to assist in Cross Site Scripting testing
+

@@ -13,7 +13,7 @@
 # **Labs**
 
 ## [TryHackMe](https://tryhackme.com/)
-    
+      
     CTF's and Rooms to learn and Practice
 
 ## [PenTesterLab](https://pentesterlab.com/)
@@ -90,8 +90,8 @@
     You've been given access to a device that controls a lock. Your job: defeat the lock by exploiting bugs in the device's code.
 
 
-
-
+## [PanOptiClick](https://panopticlick.eff.org/)
+    Panopticlick will analyze how well your browser and add-ons protect you against online tracking techniques. We’ll also see if your system is uniquely configured—and thus identifiable—even if you are using privacy-protective software.
 
 ----
 
