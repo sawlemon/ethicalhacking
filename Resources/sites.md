@@ -93,5 +93,10 @@
 ## [PanOptiClick](https://panopticlick.eff.org/)
     Panopticlick will analyze how well your browser and add-ons protect you against online tracking techniques. We’ll also see if your system is uniquely configured—and thus identifiable—even if you are using privacy-protective software.
 
+## [CTF Time](https://ctftime.org/)
+    
+    We decided to make some kind of CTF archive and of course, it'll be too boring to have just an archive, so we made a place, where you can get some another CTF-related info - current overall Capture The Flag team rating, per-team statistics etc
+
+
 ----
 
