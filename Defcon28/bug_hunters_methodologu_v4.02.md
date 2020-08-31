@@ -4,6 +4,8 @@ by *Jason Haddix*
 
 Recon part
 
+## [Mindmap.png](https://github.com/imran-parray/Mind-Maps/blob/master/Bug%20Hunters%20Methodology%20v4/MindMap.png)
+
 **Project Tracking**
 
 	Xmind	
