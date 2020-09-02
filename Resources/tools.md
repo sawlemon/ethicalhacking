@@ -62,4 +62,5 @@
 
 ## [Tmux Cheatsheet](https://imgur.com/bL9Dn3U)
 
-	
+## [HookBin](https://hookbin.com/)
+	Hookbin is a free service that enables you to collect parse, and view HTTP requests. Create your unique endpoints to inspect headers, body, query strings, cookies, uploaded files, and much more.
