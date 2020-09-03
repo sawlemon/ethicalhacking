@@ -64,3 +64,6 @@
 
 ## [HookBin](https://hookbin.com/)
 	Hookbin is a free service that enables you to collect parse, and view HTTP requests. Create your unique endpoints to inspect headers, body, query strings, cookies, uploaded files, and much more.
+
+## [King Of OneLineTips](https://github.com/OfJAAH/KingOfBugBountyTips)
+	Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.
