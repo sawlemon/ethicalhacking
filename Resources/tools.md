@@ -43,15 +43,18 @@
 	Metasploitable 2 and 3
 	Exploitdb with vulnerable software
 
-## [OWASP Cheat Sheet](https://cheatsheetseries.owasp.org/index.html)
-[wasp cheatsheet github](https://github.com/OWASP/CheatSheetSeries)
-	
-	The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics. These cheat sheets were created by various application security professionals who have expertise in specific topics.
+## [Snort](https://www.snort.org/)
+	It is an open source intrusion prevention system capable of real-time traffic analysis and packet logging.
 
-## [CyberChef](https://gchq.github.io/CyberChef/)
-	Encoding tools in browser
 
-## [PenTestMonkey](pentestmonkey.net)
+----
+## Web Tools
+
+## [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence)
+	A curated list of awesome Threat Intelligence resources
+
+## [King Of OneLineTips](https://github.com/OfJAAH/KingOfBugBountyTips)
+	Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.
 
 ## [Wimble](wimble.net)
 	BSSID Lookup
@@ -65,5 +68,3 @@
 ## [HookBin](https://hookbin.com/)
 	Hookbin is a free service that enables you to collect parse, and view HTTP requests. Create your unique endpoints to inspect headers, body, query strings, cookies, uploaded files, and much more.
 
-## [King Of OneLineTips](https://github.com/OfJAAH/KingOfBugBountyTips)
-	Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.
