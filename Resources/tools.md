@@ -4,9 +4,6 @@
 	Ansible - automation
 	Google Pen-testing tool
 	https://pentest-tools.com/information-gathering/google-hacking
-	
-	gtfobins
-		Privillage escalation resource
 
 	wafw00f
 		Web Application Firewall Detection Tool
@@ -18,10 +15,14 @@
 	linEnum
 	crackstation.net
 
+## [GTFOBins](https://gtfobins.github.io/)
+	GTFOBins is a curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions.
+	break out restricted shells, escalate or maintain elevated privileges, transfer files, spawn bind and reverse shells, and facilitate the other post-exploitation tasks
 
-# **Vulnerability Finder**
 
 ## [Exploit-DB](https://www.exploit-db.com/)
+
+
 ## Database of Exploits
 	NVD
 	CVE Mitre
