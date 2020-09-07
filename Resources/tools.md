@@ -41,8 +41,9 @@
 
 ## [Snort](https://www.snort.org/)
 	It is an open source intrusion prevention system capable of real-time traffic analysis and packet logging.
-
-
+## [CRLFuzz](https://github.com/dwisiswant0/crlfuzz)
+	A fast tool to scan CRLF vulnerability written in Go
+	
 ----
 # **Web Tools**
 
@@ -51,4 +52,3 @@
 
 ## [HookBin](https://hookbin.com/)
 	Hookbin is a free service that enables you to collect parse, and view HTTP requests. Create your unique endpoints to inspect headers, body, query strings, cookies, uploaded files, and much more.
-

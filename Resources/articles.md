@@ -22,4 +22,6 @@ Use Striker tool to bypass cloudflare
 ----
 ## [Choosing between www and non-www URLs](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Choosing_between_www_and_non-www_URLs)
     A recurring question among website owners is whether to choose non-www or www URLs. This page provides some advice on what's best.
-
+----
+## [Hakluke’s Guide to Amass — How to Use Amass More Effectively for Bug Bounties](https://medium.com/@hakluke/haklukes-guide-to-amass-how-to-use-amass-more-effectively-for-bug-bounties-7c37570b83f7)
+    Amass has a lot of features. It’s a bit of a weird tool because despite being synonymous with bug bounty recon, and despite being extremely well known, most people don’t know how to use it to it’s full advantage
