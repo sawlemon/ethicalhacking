@@ -118,5 +118,14 @@
 
 ## [NightMare](https://guyinatuxedo.github.io/#nightmare)
     Nightmare is an intro to binary exploitation / reverse engineering course based around ctf challenges. I call it that because it's a lot of people's nightmare to get hit by weaponized 0 days, which these skills directly translate into doing that type of work (plus it's a really cool song).
+
+## [HowToHunt](https://github.com/KathanP19/HowToHunt)
+    Some Tutorials and Things to Do while Hunting Particular Vulnerability.
+
+## [ENISA - Online Training Material - Techinal ](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material)
+    ENISA CSIRT training material was introduced in 2008. In 2012, 2013 and 2014 it was complemented with new exercise scenarios containing essential material for success in the CSIRT community and in the field of information security. In these pages you will find the ENISA CSIRT training material, containing Handbooks for teachers, Toolsets for students and Virtual Images to support hands on training sessions. 
+
+
+
 ----
 
