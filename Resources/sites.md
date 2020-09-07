@@ -74,6 +74,7 @@
     Short evaluation on scripting, Networking basics (Contents of IS L3) - Introduction to Kali Linux - Layer 2 and Layer 3 Discovery using Kali Linux with demo/practice - Layer 4 discovery using Kali Linux with demo/practice - Port scanning feature in Kali Linux with demo/practice etc.
 
 ## [Stanford CS 253 Web Security playlist](https://t.co/F1vAqOiqoM)
+    A lecture series by ferros covering fundamental web security concepts
 
 ## [CYBER AND INFORMATION SECURITY (C&IS) DIVISION](https://www.mha.gov.in/division_of_mha/cyber-and-information-security-cis-division)
     Division deals with matters relating to Cyber Security, Cyber Crime, National Information Security Policy & Guidelines (NISPG) and implementation of NISPG, NATGRID etc.    
@@ -109,6 +110,7 @@
 	This article is focused on providing application security testing professionals with a guide to assist in Cross Site Scripting testing
 
 ## [Tmux Cheatsheet](https://imgur.com/bL9Dn3U)
+    Tmux is a Terminal Multiplexer allowing user to split a single terminal window into multiple sessions.
 
 ## [FuzzDB](https://github.com/fuzzdb-project/fuzzdb)
 	FuzzDB was created to increase the likelihood of finding application security vulnerabilities through dynamic application security testing. 
