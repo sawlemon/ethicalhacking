@@ -98,5 +98,24 @@
     We decided to make some kind of CTF archive and of course, it'll be too boring to have just an archive, so we made a place, where you can get some another CTF-related info - current overall Capture The Flag team rating, per-team statistics etc
 
 
+## [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence)
+	A curated list of awesome Threat Intelligence resources
+
+## [King Of OneLineTips](https://github.com/OfJAAH/KingOfBugBountyTips)
+	Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish to influence Onelinetips and explain the commands, for the better understanding of new hunters.
+
+## [XSS Filter Evasion Cheat Sheet](https://owasp.org/www-community/xss-filter-evasion-cheatsheet)
+	
+	This article is focused on providing application security testing professionals with a guide to assist in Cross Site Scripting testing
+
+## [Tmux Cheatsheet](https://imgur.com/bL9Dn3U)
+
+## [FuzzDB](https://github.com/fuzzdb-project/fuzzdb)
+	FuzzDB was created to increase the likelihood of finding application security vulnerabilities through dynamic application security testing. 
+
+## [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+	A list of useful payloads and bypasses for Web Application Security. Feel free to improve with your payloads and techniques 
+
+
 ----
 
