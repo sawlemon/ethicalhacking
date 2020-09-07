@@ -127,7 +127,8 @@
 ## [ENISA - Online Training Material - Techinal ](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material)
     ENISA CSIRT training material was introduced in 2008. In 2012, 2013 and 2014 it was complemented with new exercise scenarios containing essential material for success in the CSIRT community and in the field of information security. In these pages you will find the ENISA CSIRT training material, containing Handbooks for teachers, Toolsets for students and Virtual Images to support hands on training sessions. 
 
-
+## [Security in Bits](https://www.securityinbits.com/)
+    Sharing my learning in Malware Analysis and Incident Response journey. All the articles focus on 0x1 topic so it’s security-in-bits.
 
 ----
 
