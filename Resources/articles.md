@@ -1,4 +1,4 @@
-# Some Random Articles 
+# Some Technical Articles 
 
 ## [ByPassing Cloudflare protection](https://blog.christophetd.fr/bypassing-cloudflare-using-internet-wide-scan-data/)
 
@@ -25,3 +25,11 @@ Use Striker tool to bypass cloudflare
 ----
 ## [Hakluke’s Guide to Amass — How to Use Amass More Effectively for Bug Bounties](https://medium.com/@hakluke/haklukes-guide-to-amass-how-to-use-amass-more-effectively-for-bug-bounties-7c37570b83f7)
     Amass has a lot of features. It’s a bit of a weird tool because despite being synonymous with bug bounty recon, and despite being extremely well known, most people don’t know how to use it to it’s full advantage 
+
+----
+
+## [EduTech Spyware is Still Spyware: Proctorio Edition](https://soatok.blog/2020/09/12/edutech-spyware-is-still-spyware-proctorio-edition/)
+    For anyone unfamiliar with it, Proctorio is a browser extension used to eliminate cheating through intense surveillance techniques. It records the computer screen while you take the exam to ensure you don’t look anything up. However, it’s more than that. (Thread 1/11)
+
+## [How I made more than $30K with Jolokia CVEs](https://blog.it-securityguard.com/how-i-made-more-than-30k-with-jolokia-cves/)
+    First and foremost: This blog post is mostly inspired by the Gotham Security : jolokia-vulnerabilities-rce-xss write-up. None of what you are about to read is really new; I just found it difficult to find a complete write-up which describes the most common misconfigurations, so I decided to spin my own testing environment to walk you through the process.

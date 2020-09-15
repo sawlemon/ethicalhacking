@@ -15,9 +15,6 @@
 	linEnum
 	crackstation.net
 
-## [GTFOBins](https://gtfobins.github.io/)
-	GTFOBins is a curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions.
-	break out restricted shells, escalate or maintain elevated privileges, transfer files, spawn bind and reverse shells, and facilitate the other post-exploitation tasks
 
 
 ## [Exploit-DB](https://www.exploit-db.com/)
@@ -41,9 +38,12 @@
 
 ## [Snort](https://www.snort.org/)
 	It is an open source intrusion prevention system capable of real-time traffic analysis and packet logging.
+
 ## [CRLFuzz](https://github.com/dwisiswant0/crlfuzz)
 	A fast tool to scan CRLF vulnerability written in Go
-	
+
+## [Waybackurls ](https://github.com/tomnomnom/waybackurls)
+	Fetch all the URLs that the Wayback Machine knows about for a domain
 ----
 # **Web Tools**
 
@@ -52,3 +52,8 @@
 
 ## [HookBin](https://hookbin.com/)
 	Hookbin is a free service that enables you to collect parse, and view HTTP requests. Create your unique endpoints to inspect headers, body, query strings, cookies, uploaded files, and much more.
+
+
+## [GTFOBins](https://gtfobins.github.io/)
+	GTFOBins is a curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions.
+	break out restricted shells, escalate or maintain elevated privileges, transfer files, spawn bind and reverse shells, and facilitate the other post-exploitation tasks

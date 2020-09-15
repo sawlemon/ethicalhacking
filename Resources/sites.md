@@ -129,6 +129,9 @@
 
 ## [Security in Bits](https://www.securityinbits.com/)
     Sharing my learning in Malware Analysis and Incident Response journey. All the articles focus on 0x1 topic so it’s security-in-bits.
+## [The-Art-Of-Hacking](https://github.com/The-Art-of-Hacking/h4cker)
+    This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
+
 
 ----
 
