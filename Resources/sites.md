@@ -132,6 +132,8 @@
 ## [The-Art-Of-Hacking](https://github.com/The-Art-of-Hacking/h4cker)
     This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.
 
+## [xxe-payloads gist](https://gist.github.com/honoki/d7035c3ccca1698ec7b541c77b9410cf#file-xxe-payloads-txt)
+    
 
 ----
 

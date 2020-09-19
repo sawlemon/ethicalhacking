@@ -33,3 +33,6 @@ Use Striker tool to bypass cloudflare
 
 ## [How I made more than $30K with Jolokia CVEs](https://blog.it-securityguard.com/how-i-made-more-than-30k-with-jolokia-cves/)
     First and foremost: This blog post is mostly inspired by the Gotham Security : jolokia-vulnerabilities-rce-xss write-up. None of what you are about to read is really new; I just found it difficult to find a complete write-up which describes the most common misconfigurations, so I decided to spin my own testing environment to walk you through the process.
+
+## [Change the username for any Facebook Page](https://bugreader.com/marcos@change-the-username-for-any-facebook-page-219)
+    In Facebook pages, an administrator has the option to create a unique username for a page. This means that you can have personalized URLs, allowing people to access them faster. Bug Reader writeup
