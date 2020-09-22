@@ -1,5 +1,5 @@
 # Ethical_Hacking
-> This repo contains files documenting things that I learn about Pen-Tesinting and Networking.
+> This repo contains files documenting things that I learn about Penetration Testing and Networking.
 
 ----
 
