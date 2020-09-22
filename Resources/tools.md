@@ -63,5 +63,7 @@
 
 ## [Crack Station](https://crackstation.net/)
 	CrackStation uses massive pre-computed lookup tables to crack password hashes. These tables store a mapping between the hash of a password, and the correct password for that hash. The hash values are indexed so that it is possible to quickly search the database for a given hash. If the hash is present in the database, the password can be recovered in a fraction of a second. This only works for "unsalted" hashes
-
+## [Hash Cat Example Hashes](https://hashcat.net/wiki/doku.php?id=example_hashes)
+	If you get a “line length exception” error in hashcat, it is often because the hash mode that you have requested does not match the hash. To verify, you can test your commands against example hashes.
+	
 	
