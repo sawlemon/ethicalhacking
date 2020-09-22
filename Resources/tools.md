@@ -57,3 +57,6 @@
 ## [GTFOBins](https://gtfobins.github.io/)
 	GTFOBins is a curated list of Unix binaries that can be exploited by an attacker to bypass local security restrictions.
 	break out restricted shells, escalate or maintain elevated privileges, transfer files, spawn bind and reverse shells, and facilitate the other post-exploitation tasks
+
+## [CyberChef - The Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/)
+	A simple, intuitive web app for analysing and decoding data without having to deal with complex tools or programming languages. CyberChef encourages both technical and non-technical people to explore data formats, encryption and compression.
