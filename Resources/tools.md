@@ -60,3 +60,8 @@
 
 ## [CyberChef - The Cyber Swiss Army Knife](https://gchq.github.io/CyberChef/)
 	A simple, intuitive web app for analysing and decoding data without having to deal with complex tools or programming languages. CyberChef encourages both technical and non-technical people to explore data formats, encryption and compression.
+
+## [Crack Station](https://crackstation.net/)
+	CrackStation uses massive pre-computed lookup tables to crack password hashes. These tables store a mapping between the hash of a password, and the correct password for that hash. The hash values are indexed so that it is possible to quickly search the database for a given hash. If the hash is present in the database, the password can be recovered in a fraction of a second. This only works for "unsalted" hashes
+
+	
