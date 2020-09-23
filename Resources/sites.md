@@ -134,6 +134,13 @@
 
 ## [xxe-payloads gist](https://gist.github.com/honoki/d7035c3ccca1698ec7b541c77b9410cf#file-xxe-payloads-txt)
     
+## [Cybersecurity Career Pathway](https://www.cyberseek.org/pathway.html)
+    There are many opportunities for workers to start and advance their careers within cybersecurity. This interactive career pathway shows key jobs within cybersecurity, common transition opportunities between them, and detailed information about the salaries, credentials, and skillsets associated with each role.
 
+## [Security Certification Progression Chart](https://i.redd.it/yo33xlys53141.png)
+
+
+## [BSdiesBOS CTF](https://bsidesbos.ctf.games/)
+    
 ----
 
