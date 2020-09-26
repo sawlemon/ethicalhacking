@@ -1,5 +1,7 @@
 ## BSidesBOS CTF
 
+## Warmups
+
 ## Read THe Rules
 
 https://bsidesbos.ctf.games/rules
@@ -87,3 +89,39 @@ NameError: name 'asdasd' is not defined
 
 
 ## Give Up
+
+`nc challenge.ctf.games 32445`
+
+`ls -la`
+    
+    total 8
+    drwxr-sr-x    1 root     root          4096 Sep  4 22:43 .
+    drwxr-xr-x    1 root     root          4096 Sep  4 22:43 ..
+
+`pwd`
+
+    /home/challenge
+
+
+## Play The Harp
+
+`exiftool harp.jpg`
+
+    ExifTool Version Number         : 11.65
+    File Name                       : harp.jpg
+    Directory                       : .
+    File Size                       : 280 kB
+    File Modification Date/Time     : 2020:09:26 14:53:10+00:00
+    File Access Date/Time           : 2020:09:26 14:53:09+00:00
+    File Inode Change Date/Time     : 2020:09:26 14:53:27+00:00
+
+
+`strings harp.jpg`
+    
+    rA<s
+    N*PH
+    0}{{
+    p}}}{
+    v?Z_
+    v?Z_
+
