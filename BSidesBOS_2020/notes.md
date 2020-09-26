@@ -1,6 +1,6 @@
-## BSidesBOS CTF
+# BSidesBOS CTF
 
-## Warmups
+# Warmups
 
 ## Read THe Rules
 
@@ -61,6 +61,11 @@ O4ZUCU2TME4HA6LHPFZGS5ZSK5YUMYJYHBNDGM3DGJNHAU2VJBGVCV2YOFUEK32DOFMEM2CZGF5EMURZ
 
 w3ASSa8pygyriw2WqFa88Z33c2ZpSUHMQWXqhEoCqXFhY1zFR9ddeF7pEJK8KtpVtu4QhVg3MBFNA92
 
+![](2020-09-26-12-32-18.png)
+
+Base 64 to 32 to 58 
+
+    flag{wow_you_hit_a_homerun_and_really_ran_the_bases_there}
 
 ## Y2K
 
@@ -124,4 +129,50 @@ NameError: name 'asdasd' is not defined
     p}}}{
     v?Z_
     v?Z_
+
+---
+
+# Forensics 
+
+## Mercury
+
+![](2020-09-26-11-43-22.png)
+
+### typical file
+
+requires
+
+    dotencode
+    fncache
+    generaldelta
+    revlogv1
+    sparserevlog
+    store
+
+lastmessage.txt
+
+    Y2U1ZmYzMWVhY2EyNWMwMzg1OTJhNGI3YjAxNGVjNDcK
+
+hashid lastmessage.txt
+
+    Unknown Hash
+
+
+
+
+ ---
+
+# Miscellaneous
+
+## Tea Mix
+
+`find . | grep flag 2>/dev/null`
+
+    find . | grep flag 2>/dev/null
+    find: ./root: Permission denied
+    find: ./var/db/sudo: Permission denied
+    ./sys/devices/pnp0/00:05/tty/ttyS2/flags
+    ./sys/devices/pnp0/00:03/tty/ttyS0/flags
+    ./sys/devices/pnp0/00:06/tty/ttyS3/flags
+
 
