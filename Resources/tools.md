@@ -44,6 +44,10 @@
 
 ## [Waybackurls ](https://github.com/tomnomnom/waybackurls)
 	Fetch all the URLs that the Wayback Machine knows about for a domain
+
+## [CeWL - Custom Word List generator](https://github.com/digininja/CeWL)
+	create a custom wordlist from target url.
+
 ----
 # **Web Tools**
 
